@@ -7,6 +7,11 @@ This app allows you to explore and enjoy the world of animated GIFs. With an eas
 
 This small application was developed with the purpose of learning a little more about how react, vite, and other technologies work.
 
+## 🤖 Features
+- Use of the giphy.com API to search for GIFs.
+- Use of TypeScript for typing and code organization.
+- Use of GitHub Actions for CI.
+
 ## ▶️ Demo
 
 Here you can find the demo link:
