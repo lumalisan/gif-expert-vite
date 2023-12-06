@@ -9,6 +9,7 @@ This small application was developed with the purpose of learning a little more 
 
 ## 🤖 Features
 - Use of the giphy.com API to search for GIFs.
+- Use of Tailwind CSS to style every component.
 - Use of TypeScript for typing and code organization.
 - Use of GitHub Actions for CI.
 
@@ -21,6 +22,7 @@ Here you can find the demo link:
 ## :rocket: Technologies used
 
 - [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 - Github Pages
